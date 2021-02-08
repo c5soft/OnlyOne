@@ -1,0 +1,24 @@
+{
+    "config": {
+        "static_path": "D:/Js/OnlyOne/public",
+        "server_name": "OnlyOne",
+        "http_active": true,
+        "http_port": 80,
+        "https_active": true,
+        "https_port": 443,
+        "https_cert": "cert.pem",
+        "https_key": "key.pem"
+    },
+    "database_server": {
+        "host1": "192.168.100.4",
+        "host": "127.0.0.1",
+        "port": 1433,
+        "database": "gxcw60",
+        "uid": "tc_gxcw60",
+        "pwd": "gxcw60"
+    },
+    "exp_parser": {
+        "dept_code_len": 4,
+        "proj_code_len": 8
+    }
+}

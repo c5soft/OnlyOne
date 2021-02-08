@@ -1,0 +1,3 @@
+﻿在ag-theme-alpine.min.css中查找
+.ag-theme-alpine .ag-row{font-size
+将14px改为16px
